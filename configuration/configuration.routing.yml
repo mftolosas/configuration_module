@@ -1,0 +1,6 @@
+configuration_module:
+  path: '/configuration/module'
+  defaults:
+    _title: 'Configuration Module'
+  requirements:
+    _permission: 'access content'

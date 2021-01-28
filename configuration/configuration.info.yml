@@ -1,0 +1,7 @@
+name: Configuration Module
+type: module
+description: 'This is an example to configuration module'
+package: Mafe
+version: '8.0.0'
+core: 8.x
+configure: configuration_module
